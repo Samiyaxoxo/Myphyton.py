@@ -1,8 +1,0 @@
-def greet(name="Guest"):
-    print(f"Hello, {name}!")
-
-# Calling without argument
-greet()  # Output: Hello, Guest!
-
-# Calling with argument
-greet("Alice")  # Output: Hello, Alice!
