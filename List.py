@@ -13,4 +13,6 @@ samiya.remove(7)
 samiya
 samiya.pop(3)
 samiya
-           
+for i in samiya:
+  print(i)
+                  
